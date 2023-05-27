@@ -1,3 +1,16 @@
+The Graphical Password Assistant (GPA) is a technical project designed to enhance password security and user experience by offering a visual alternative to traditional text-based passwords. GPA allows users to create their own graphical passwords by following a series of defined actions.
+
+With GPA, users have the freedom to select their desired graphic images as the basis for their passwords. These images are divided into nine sections, and the user is required to choose at least three sections to construct their password. The order in which the sections are selected is also crucial for password validation.
+
+One of the key features of GPA is its unique Blur system, which addresses a common vulnerability of traditional graphical passwords known as shoulder surfing. Shoulder surfing refers to the act of unauthorized individuals observing a user's actions to determine their password. By incorporating the Blur system, GPA obscures the selected sections of the images, making it difficult for shoulder surfers to decipher the password visually.
+
+The implementation of GPA involves a combination of JavaScript and Python code. JavaScript is used to provide interactive elements on the user interface, allowing users to select images and sections. Python is utilized for the back-end logic, including password validation, image processing, and the Blur system.
+
+The objective of GPA is to offer an intuitive and secure method for users to create and remember their passwords. By leveraging visual cues and user-selected images, GPA aims to enhance password memorability while mitigating the risks associated with traditional text-based passwords. The integration of the unique Blur system further strengthens the security aspect, protecting users' passwords from shoulder surfing attacks.
+
+Overall, GPA presents an innovative approach to password management, emphasizing user customization, visual authentication, and improved security measures. By providing an alternative to text-based passwords, GPA offers a more user-friendly and secure solution for password protection.
+
+
 ---
 Problem Statement Title : Graphical Password Authentication  
 PS Number : DR705 
@@ -35,7 +48,7 @@ Domain Bucket : Blockchain & Cybersecurity
   </tr>
   <tr>
     <td>5</td>
-    <td>Tester</td>
+    <td>Frontend | Logic and working Tester</td>
     <td>Naman Sharma</td>
   </tr>
   <tr>
