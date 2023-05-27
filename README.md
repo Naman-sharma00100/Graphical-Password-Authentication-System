@@ -29,42 +29,16 @@ Domain Bucket : Blockchain & Cybersecurity
 ---
 
 
-<h1>Developers Details 💥✨👩‍💻🐱‍👤</h1>
-<table>
-  <tr>
-    <th>Ser. No.</th>
-    <th>Work</th>
-    <th>Name</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Frontend</td>
-    <td>Harshit Paneri</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Backend and logic</td>
-    <td>Priyanshu Arora</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Frontend</td>
-    <td>Hanshika Mehta</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Research and Data Handling</td>
-    <td>Asim Ali</td>
-  </tr>
-  <tr>
-    <td>5</td>
-    <td>Frontend | Logic and working Tester</td>
-    <td>Naman Sharma</td>
-  </tr>
-  <tr>
-    <td>6</td>
-    <td>Tester</td>
-    <td>Somya Champawat</td>
-  </tr>
-  
-</table>
+## Contributors
+
+This project was made possible thanks to the contributions of the following individuals:
+
+- [Naman Sharma](https://github.com/Naman-sharma00100) - *Security implementation and Testing*
+- [Harshit Paneri](https://github.com/harshit-paneri) - *Frontend development*
+- [Somya Champawat](https://github.com/username3) - *Project management*
+- [Hanshika Mehta](https://github.com/username4) - *Frontend development*
+- [Asim Ali](https://github.com/username5) - *Database Management*
+- [Priyanshu Arora](https://github.com/username6) - *Back-end development*
+
+A special thanks to all the contributors for their hard work and dedication in bringing this project to life. Without their efforts, this project would not have been possible.
+
